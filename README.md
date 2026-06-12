@@ -92,3 +92,10 @@ Sama sekali tidak! Semua fungsi server dinamis sekarang disediakan gratis dan an
 
 ---
 *Dokumen ini dibuat khusus untuk mempermudah pemeliharaan portal kemahasiswaan STIE Eka Prasetya agar selalu stabil dan bebas kendala server.*
+
+
+## 🛠️ Pemasangan 
+Jika inggin pemasangan bisa saya bantu
+wa : 081361918725
+Name : Indra Mawanta Ginting
+Tidak Gratis
